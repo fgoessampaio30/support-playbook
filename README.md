@@ -1,17 +1,22 @@
-support-playbook
+# Felipe Sampaio
 
-Oracle
+Analista de Sistemas especializado em troubleshooting e investigação de problemas complexos.
 
-API
+## Foco técnico
+- Oracle Database
+- SQL
+- RCA (Root Cause Analysis)
+- Integrações e APIs
+- ERP Hospitalar
+- Análise de logs e HAR
+- Performance de sistemas
 
-HAR
+## Objetivo
+Documentar técnicas reais de investigação de incidentes e estruturar conhecimento prático para suporte de sistemas corporativos.
 
-Logs
-
-SQL
-
-RCA
-
-Performance
-
-Checklists
+## Repositórios
+- Support Playbook → base central de conhecimento
+- Oracle Troubleshooting → erros e análises Oracle
+- SQL Toolkit → consultas e diagnóstico
+- HAR Analysis → análise de requisições HTTP
+- AI for Support → automação e IA aplicada ao suporte
